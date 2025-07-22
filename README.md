@@ -1,7 +1,9 @@
 # 🧾 데이터톤 프로젝트 TEAM 10
 
 ## 📌 프로젝트 개요
-- Google Merchandise Sales Data
+- 이커머스 고객 행동 분석 및 고객 유형 분류 후 마케팅 전략 제안
+- Google Merchandise Sales Data 활용
+- https://www.kaggle.com/datasets/mexwell/google-merchandise-sales-data/data
 
 ## 📁 폴더 구조
 ```
