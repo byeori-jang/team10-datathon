@@ -1,0 +1,8 @@
+data/
+
+# 데이터 파일
+*.csv
+*.parquet
+
+# ipynb checkpoint 파일
+*.ipynb_checkpoints/
