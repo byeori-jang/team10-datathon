@@ -1,10 +1,10 @@
 # 🧾 데이터톤 프로젝트 TEAM 10
 
 ## 📌 프로젝트 개요
-- 이커머스 고객 행동 분석 및 고객 유형 분류 후 마케팅 전략 제안
-- Google Merchandise Sales Data 활용
-- https://www.kaggle.com/datasets/mexwell/google-merchandise-sales-data/data
-
+- TVING의 해외 시장 진출을 위한 전략적 제언
+- 방송통신위원회. “해외 OTT 이용행태조사 원시데이터 (2022, 2023) 활용
+- https://www.data.go.kr/data/15128043/fileData.do?recommendDataYn=Y
+  
 ## 📁 폴더 구조
 ```
 📦team10-datathon
@@ -33,3 +33,4 @@
 - Jupyter Notebook / Colab
 - Tableau / PowerPoint  
 - GitHub
+
